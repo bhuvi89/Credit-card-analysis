@@ -26,4 +26,12 @@ The primary objective of this project is to provide Mitron Bank's strategy team 
 The project leverages the following technical skills:
 
 - Power BI: Designed and developed interactive dashboards for data visualization.
+  -  Connecting to various data sources, such as databases, Excel.
+  - Data cleansing, transformation, and shaping using Power Query Editor.
+  - Creating relationships between tables.
+  - Defining calculated columns and measures using DAX (Data Analysis Expressions) language.
+  - Creating interactive visualizations.
+  - Utilizing custom visuals and custom themes.
+  - Creating KPIs.
+
 - GitHub: Managed the project repository for version control and collaboration.
